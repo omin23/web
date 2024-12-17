@@ -4,7 +4,7 @@ main:
   # - title: "Categories"
   #   url: /categories/
   - title: "Main"
-  url: /main/
+    url: /main/
   # - title: "Tags"
   #   url: /tags/
   - title: "About"
