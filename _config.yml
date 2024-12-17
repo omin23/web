@@ -21,12 +21,12 @@ email: omkarn@umich.edu
 #   Google search results) and in your feed.xml site description.
 # twitter_username: username
 github_username: omin23
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
