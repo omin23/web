@@ -1,11 +1,13 @@
 main:
   # - title: "Posts"
   #   url: /posts/
-  - title: "Categories"
-    url: /categories/
+  # - title: "Categories"
+  #   url: /categories/
+  - title: "Main"
+  url: /main/
   # - title: "Tags"
   #   url: /tags/
   - title: "About"
     url: /about/
   - title: "Research"
-    url: /Research/
+    url: /research/
