@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Omkar Nayak"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot.png"
   bio    : "Undergrad at the University of Michigan Computer Science and Mathematics department"
   links:
     - label: "Website"
