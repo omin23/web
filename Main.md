@@ -1,5 +1,6 @@
 ---
-title: 'Bio'
+permalink: /web/
+title: "Main Page"
 layout: single
 author_profile: true
 ---
