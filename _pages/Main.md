@@ -1,4 +1,0 @@
----
-permalink: /main/
-title: "Main"
----
