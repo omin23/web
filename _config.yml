@@ -62,8 +62,8 @@ author:
   # avatar : "/assets/images/profile.jpg"
   bio    : "Undergrad student @ Umich deparment of statistics"
   location  : "Ann Arbor, Michigan"
-  email   : "smrstep@umich.edu"
-  linkedin : 'seamus-somerstep'
+  email   : "omkarn@umich.edu"
+  linkedin : 'omkar-nayak-umk'
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
@@ -73,7 +73,7 @@ author:
       #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/somerstep"
+      url: "https://github.com/omin23"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
@@ -85,7 +85,7 @@ footer:
       #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/somerstep"
+      url: "https://github.com/omin23"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
@@ -93,8 +93,8 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "Main.md"
+      type: none
     values:
       layout: single
       author_profile: true
