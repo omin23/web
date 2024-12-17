@@ -22,7 +22,7 @@ email: omkarn@umich.edu
 # twitter_username: username
 github_username: omin23
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
+# minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -89,16 +89,16 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: "_pages"
